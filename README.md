@@ -1,2 +1,2 @@
 # ATM-Machine
-ATM Machine Design GUI Tkinter using python.
+ATM Machine Project Design GUI Tkinter using python.
